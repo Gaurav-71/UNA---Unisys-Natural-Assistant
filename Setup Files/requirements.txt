@@ -1,0 +1,17 @@
+wikipedia
+kivy
+SpeechRecognition
+pyttsx3
+mysql
+mysql.connector
+fuzzywuzzy
+levenshtein
+o365
+datefinder
+PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+ffmpeg
+soundfile
+punctuator
+language_tool_python
+nutshell
+pynutshell
