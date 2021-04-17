@@ -34,6 +34,7 @@ Some voice commands:
 5. calendar (this used for the authentication from the outlook app)
 6. add calendar (to add event to your outlook calendar)
 7. show calendar (to show all the events in your outlook calendar until specified date)
+8. minutes of meeting (this is used to summarize your meeting)
 
 ######
 
